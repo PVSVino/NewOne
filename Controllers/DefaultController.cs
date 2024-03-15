@@ -12,6 +12,6 @@ namespace GitPractice.Controllers
         public ActionResult Index()
         {
             return View();
-        }
+        }ddddddwewee
     }
 }
